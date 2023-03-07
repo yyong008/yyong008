@@ -1,6 +1,6 @@
 Hey, I'm Magnesium 🎈
 
-一个喜欢编程的开源爱好者，正在做一些有意思的小项目：
+一个喜欢编程的独立开源爱好者，正在做一些有意思的小项目：
 
 ## JavaScript/TypeScript
 
