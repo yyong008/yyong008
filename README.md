@@ -17,7 +17,7 @@ Hey, I'm Magnesium 🎈
 
 ## 模板
 
-- - [create-remix-app-antd](https://github.com/yyong008/create-remix-app-antd) 使用 antd 创建一个 remix app。
+- [create-remix-app-antd](https://github.com/yyong008/create-remix-app-antd) 使用 antd 创建一个 remix app。
 
 ## 项目
 
