@@ -15,9 +15,12 @@ Hey, I'm Magnesium 🎈
 
 - [weekly](https://github.com/yyong008/weekly) 记录一周所见所闻。
 
+## 模板
+
+- - [create-remix-app-antd](https://github.com/yyong008/create-remix-app-antd) 使用 antd 创建一个 remix app。
+
 ## 项目
 
 - [guess-poker](https://github.com/yyong008/guess-poker) 一个基于 remix 的猜扑克小游戏。
 - [todo-vue3-tsx](https://github.com/yyong008/todo-vue3-tsx) 基于 Vue3/TSX 的 todo 小应用。
-- [create-remix-app-antd](https://github.com/yyong008/create-remix-app-antd) 使用 antd 创建一个 remix app。
 - [temporal-calendar](https://github.com/yyong008/temporal-calendar) 使用 temporal 替代 Date 对象创建的单页日历（模拟 90 年代的日历）。
