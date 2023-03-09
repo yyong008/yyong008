@@ -7,19 +7,19 @@ An independent open source enthusiast who loves programming is working on some i
 - [icolors-vars](https://github.com/yyong008/icolors-vars) The color hierarchy system of component libraries such as Antd/Tailwind/mui/el is collected for quick and easy access to color design systems.
 - [iesmo](https://github.com/yyong008/iesm)  A library of tools for quick and easy use of ESM.
 
-## 编辑器
+## Editors
 
 - [icolors-theme](https://github.com/yyong008/icolors-theme) A VSCode theme designed with hierarchical colors such as Antd (which may be used in other editors in the future).
 
-## 周刊
+## Weekly
 
 - [weekly](https://github.com/yyong008/weekly) Record what you see and hear during the week.
 
-## 模板
+## Templates
 
 - [create-remix-app-antd](https://github.com/yyong008/create-remix-app-antd) Use antd to create a remix app.
 
-## 项目
+## Projects
 
 - [guess-poker](https://github.com/yyong008/guess-poker) A Remix-based guessing poker mini-game.
 - [todo-vue3-tsx](https://github.com/yyong008/todo-vue3-tsx) Vue3/TSX-based todo applet.
