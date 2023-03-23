@@ -32,6 +32,7 @@ what is hard components? There are very few properties that are not configurable
 ## Templates
 
 - [create-remix-app-antd](https://github.com/yyong008/create-remix-app-antd) Use antd to create a remix app.
+- [create-remix-app-antd-pro](https://github.com/yyong008/create-remix-antd-pro-app) Use antd and pro-components to create a remix app.
 - [static-cutouts-express](https://github.com/yyong008/static-cutouts-express) static cutouts pages with express
 
 ## Projects 
