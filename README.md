@@ -26,7 +26,9 @@ now support react, what is hard components? There are very few properties that a
 
 ## Editors
 
-- [icolors-theme](https://github.com/yyong008/icolors-theme) A VSCode theme designed with hierarchical colors such as Antd (which may be used in other editors in the future).
+|editors|introduction|
+|||
+|[icolors-theme](https://github.com/yyong008/icolors-theme)| A VSCode theme designed with hierarchical colors such as Antd (which may be used in other editors in the future).|
 
 ## Weekly
 
