@@ -14,7 +14,7 @@ An independent open source enthusiast who loves programming is working on some i
 
 now support react, what is hard components? There are very few properties that are not configurable or configurable, and it is recommended to introduce it out of the box.
 
-|component libs|说明|
+|component libs|intoduction|
 |---|---|
 |[isection](https://github.com/yyong008/isection)| hard section component|
 |[ispace](https://github.com/yyong008/ispace) | hard ispace between two element in the horizontal direction|
@@ -30,7 +30,10 @@ now support react, what is hard components? There are very few properties that a
 
 ## Weekly
 
-- [weekly](https://github.com/yyong008/weekly) Record what you see and hear during the week.
+|weekly|intoduction|
+|---|---|
+|[weekly](https://github.com/yyong008/weekly) |Record what you see and hear during the week.|
+|[weekly-writer]()|weekly-writter|
 
 ## Templates
 
@@ -40,6 +43,8 @@ now support react, what is hard components? There are very few properties that a
 
 ## Projects 
 
-- [guess-poker](https://github.com/yyong008/guess-poker) A Remix-based guessing poker mini-game.
-- [todo-vue3-tsx](https://github.com/yyong008/todo-vue3-tsx) Vue3/TSX-based todo applet.
-- [temporal-calendar](https://github.com/yyong008/temporal-calendar) Use temporal instead of a single-page calendar created by the Date object (simulating a calendar from the 90s).
+|projects|introduction|
+|---|---|
+|[guess-poker](https://github.com/yyong008/guess-poker)| A Remix-based guessing poker mini-game.|
+|[todo-vue3-tsx](https://github.com/yyong008/todo-vue3-tsx)| Vue3/TSX-based todo applet.|
+|[temporal-calendar](https://github.com/yyong008/temporal-calendar) |Use temporal instead of a single-page calendar created by the Date object (simulating a calendar from the 90s).|
