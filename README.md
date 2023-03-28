@@ -12,16 +12,16 @@ An independent open source enthusiast who loves programming is working on some i
 
 ### hard components
 
-now support react
+now support react, what is hard components? There are very few properties that are not configurable or configurable, and it is recommended to introduce it out of the box.
 
-what is hard components? There are very few properties that are not configurable or configurable, and it is recommended to introduce it out of the box.
-
-- [isection](https://github.com/yyong008/isection) hard section component
-- [ispace](https://github.com/yyong008/ispace) hard ispace between two element in the horizontal direction
-- [idivider](https://github.com/yyong008/idivider) hard idivider component between two element in the vertical direction
-- [icontainer](https://github.com/yyong008/icontainer) hard contianer component, use it can fast layout wrap
-- [iflex]() come on soon
-- [ijson]() come on soon
+|component libs|说明|
+|---|---|
+|[isection](https://github.com/yyong008/isection)| hard section component|
+|[ispace](https://github.com/yyong008/ispace) | hard ispace between two element in the horizontal direction|
+|[idivider](https://github.com/yyong008/idivider)|  hard idivider component between two element in the vertical direction|
+|[icontainer](https://github.com/yyong008/icontainer) | hard contianer component, use it can fast layout wrap|
+|[iflex]()|  come on soon|
+|[ijson]() |come on soon|
 
 
 ## Editors
