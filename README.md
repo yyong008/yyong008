@@ -2,6 +2,15 @@ Hey, I'm Magnesium 🎈
 
 An independent open source enthusiast who loves programming is working on some interesting little projects:
 
+## Projects and Templates
+
+|templates|introduction|
+|---|---|
+|[remix-antd-admin](https://github.com/yyong008/remix-antd-admin)|A management system based on `Remix`/`Antd`/`Echarts`/`Styled-components` that enables quick project initialization.|
+|[create-remix-app-antd](https://github.com/yyong008/create-remix-app-antd) | Use antd to create a remix app.|
+|[create-remix-app-antd-pro](https://github.com/yyong008/create-remix-antd-pro-app) | Use antd and pro-components to create a remix app.|
+|[static-cutouts-express](https://github.com/yyong008/static-cutouts-express) | static cutouts pages with express|
+
 ## JavaScript/TypeScript
 
 |JavaScript Libs| introduction|
@@ -37,13 +46,7 @@ now support react, what is hard components? There are very few properties that a
 |[weekly](https://github.com/yyong008/weekly) |Record what you see and hear during the week.|
 |[weekly-writer]()|coome on soon|
 
-## Templates
 
-|templates|introduction|
-|---|---|
-|[create-remix-app-antd](https://github.com/yyong008/create-remix-app-antd) | Use antd to create a remix app.|
-|[create-remix-app-antd-pro](https://github.com/yyong008/create-remix-antd-pro-app) | Use antd and pro-components to create a remix app.|
-|[static-cutouts-express](https://github.com/yyong008/static-cutouts-express) | static cutouts pages with express|
 
 ## Projects 
 
