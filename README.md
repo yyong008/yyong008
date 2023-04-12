@@ -7,6 +7,7 @@ An independent open source enthusiast who loves programming is working on some i
 |templates|introduction|
 |---|---|
 |[remix-antd-admin](https://github.com/yyong008/remix-antd-admin)|A management system based on `Remix`/`Antd`/`Echarts`/`Styled-components` that enables quick project initialization.|
+|[remix-antd-admin-electron](https://github.com/yyong008/remix-antd-admin-electron)|A desktop management system based on `Remix`/`Antd`/`Echarts`/`Styled-components` that enables quick project initialization.|
 |[create-remix-app-antd](https://github.com/yyong008/create-remix-app-antd) | Use antd to create a remix app.|
 |[create-remix-app-antd-pro](https://github.com/yyong008/create-remix-antd-pro-app) | Use antd and pro-components to create a remix app.|
 |[static-cutouts-express](https://github.com/yyong008/static-cutouts-express) | static cutouts pages with express|
