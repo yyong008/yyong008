@@ -16,9 +16,9 @@ An independent open source enthusiast who loves programming is working on some i
 
 |JavaScript Libs| introduction|
 |---|---|
+|[itpls](https://github.com/yyong008/itpls/blob/master/package.json) | a cli that start blank project from target template|
 |[icolors-vars](https://github.com/yyong008/icolors-vars) |The color hierarchy system of component libraries such as Antd/Tailwind/mui/el is collected for quick and easy access to color design systems.|
 |[iesmo](https://github.com/yyong008/iesm)| A library of tools for quick and easy use of ESM.|
-|[itpls](https://github.com/yyong008/itpls/blob/master/package.json) | a cli that start blank project from target template|
 
 ### hard components
 
