@@ -2,6 +2,13 @@ Hey, I'm Magnesium 🎈
 
 An independent open source enthusiast who loves programming is working on some interesting little projects:
 
+## GPT Generator Content such as psychology and others
+
+|name|introduction|
+|---|---|
+|[mg-psychology](https://gpt-psychology.vercel.app/)|Introduction to Psychology Content|
+
+
 ## Projects and Templates
 
 |templates|introduction|
