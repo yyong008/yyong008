@@ -1,6 +1,4 @@
-Hey, I'm Magnesium 🎈
-
-An independent open source enthusiast who loves programming is working on some interesting little projects:
+Hey, I'm Magnesium， Welcome My Github Page 🎈
 
 ## GPT Generator Content such as psychology and others
 
