@@ -11,6 +11,7 @@ Hey, I'm Magnesium， Welcome My Github Page 🎈
 
 |templates|introduction|
 |---|---|
+|[remix-antd-mobile](https://github.com/yyong008/remix-antd-mobile)| A h5 template use remix|
 |[remix-antd-admin](https://github.com/yyong008/remix-antd-admin)|A management system based on `Remix`/`Antd`/`Echarts`/`Styled-components` that enables quick project initialization.|
 |[create-remix-app-antd](https://github.com/yyong008/create-remix-app-antd)|A desktop management system based on `Remix`/`Antd`/`Echarts`/`Styled-components` that enables quick project initialization.|
 |[remix-antd-admin-electron](https://github.com/yyong008/remix-antd-admin-electron)| Use antd to create a remix app.|
