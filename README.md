@@ -1,10 +1,5 @@
 Hey, I'm Magnesium， Welcome My Github Page 🎈
 
-## GPT Generator Content such as psychology and others
-
-|name|introduction|
-|---|---|
-|[mg-psychology](https://gpt-psychology.vercel.app/)|Introduction to Psychology Content|
 
 
 ## Projects and Templates
@@ -26,40 +21,3 @@ Hey, I'm Magnesium， Welcome My Github Page 🎈
 |[itpls](https://github.com/yyong008/itpls/blob/master/package.json) | a cli that start blank project from target template|
 |[icolors-vars](https://github.com/yyong008/icolors-vars) |The color hierarchy system of component libraries such as Antd/Tailwind/mui/el is collected for quick and easy access to color design systems.|
 |[iesmo](https://github.com/yyong008/iesm)| A library of tools for quick and easy use of ESM.|
-
-### hard components
-
-now support react, what is hard components? There are very few properties that are not configurable or configurable, and it is recommended to introduce it out of the box.
-
-|component libs|intoduction|
-|---|---|
-|[isection](https://github.com/yyong008/isection)| hard section component|
-|[ispace](https://github.com/yyong008/ispace) | hard ispace between two element in the horizontal direction|
-|[idivider](https://github.com/yyong008/idivider)|  hard idivider component between two element in the vertical direction|
-|[icontainer](https://github.com/yyong008/icontainer) | hard contianer component, use it can fast layout wrap|
-|[iflex]()|  come on soon|
-|[ijson]() |come on soon|
-
-
-## Editors
-
-|weekly|intoduction|
-|---|---|
-|[icolors-theme](https://github.com/yyong008/icolors-theme)| A VSCode theme designed with hierarchical colors such as Antd (which may be used in other editors in the future).|
-
-## Weekly
-
-|weekly|intoduction|
-|---|---|
-|[weekly](https://github.com/yyong008/weekly) |Record what you see and hear during the week.|
-|[weekly-writer]()|coome on soon|
-
-
-
-## Projects 
-
-|projects|introduction|
-|---|---|
-|[guess-poker](https://github.com/yyong008/guess-poker)| A Remix-based guessing poker mini-game.|
-|[todo-vue3-tsx](https://github.com/yyong008/todo-vue3-tsx)| Vue3/TSX-based todo applet.|
-|[temporal-calendar](https://github.com/yyong008/temporal-calendar) |Use temporal instead of a single-page calendar created by the Date object (simulating a calendar from the 90s).|
