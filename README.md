@@ -9,3 +9,4 @@ Hey, I'm Magnesium， Welcome My Github Page 🎈
 
 <div align="center"> <img src="https://metrics.lecoq.io/yyong008?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=yyong008" /> </div>
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=yyong008" /> </div>
