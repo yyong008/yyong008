@@ -1,4 +1,4 @@
-## Hi, I'm Magnesium， Welcome My Github Page <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Hi, I'm Magnesium（mg）， Welcome My Github Page <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 
 <table>
