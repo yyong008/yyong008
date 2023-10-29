@@ -14,8 +14,11 @@
 ## remix stack
 
 - [remix-antd-admin](https://github.com/yyong008/remix-antd-admin)
+- [remix-antd-mobile](https://github.com/yyong008/remix-antd-mobile)
 - [remix-antd-admin-electron](https://github.com/yyong008/remix-antd-admin-electron)
 - [remix-mdx-blog](https://github.com/yyong008/remix-mdx-blog)
 - [remix-tRPC](https://github.com/yyong008/remix-trpc)
 - [remix-rxjs](https://github.com/yyong008/remix-rxjs)
 - [remix-laxjs](https://github.com/yyong008/remix-laxjs)
+- [remix-sqlite-prisma](https://github.com/yyong008/remix-sqlite-prisma)
+- [create-remix-antd-pro-app](https://github.com/yyong008/create-remix-antd-pro-app)
