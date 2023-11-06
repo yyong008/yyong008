@@ -22,3 +22,18 @@
 - [remix-laxjs](https://github.com/yyong008/remix-laxjs)
 - [remix-sqlite-prisma](https://github.com/yyong008/remix-sqlite-prisma)
 - [create-remix-antd-pro-app](https://github.com/yyong008/create-remix-antd-pro-app)
+
+## npm packages
+
+- [icall-cli](https://www.npmjs.com/package/icall-cli) A user-friendly CLI initialization
+- [i-js-tools](https://www.npmjs.com/package/i-js-tools) A js/ts tools
+- [itpls](https://www.npmjs.com/package/itpls) A CLI tool that fills empty Git projects with templates
+- [iesmo](https://www.npmjs.com/package/iesmo) A fast ESM tools
+- [icolors-vars](https://www.npmjs.com/package/icolors-vars) System-level Color System Css Variables, fast and happy to use it
+
+## react components
+
+- [ispacegap](https://www.npmjs.com/package/ispacegap) Quickly create some gaps between elements
+- [isection](https://www.npmjs.com/package/isection)
+- [idivider](https://www.npmjs.com/package/idivider)
+- [icontainer](https://www.npmjs.com/package/icontainer) A container and center layout, with breakpoint and iphone size
