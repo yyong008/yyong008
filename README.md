@@ -22,6 +22,8 @@
 - [remix-laxjs](https://github.com/yyong008/remix-laxjs)
 - [remix-sqlite-prisma](https://github.com/yyong008/remix-sqlite-prisma)
 - [create-remix-antd-pro-app](https://github.com/yyong008/create-remix-antd-pro-app)
+- [create-remix-antd-pro-app](https://github.com/yyong008/create-remix-antd-pro-app)
+- [canvas-with-remix](https://github.com/yyong008/canvas-with-remix)
 
 ## npm packages
 
