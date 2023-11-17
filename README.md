@@ -24,6 +24,7 @@
 - [create-remix-antd-pro-app](https://github.com/yyong008/create-remix-antd-pro-app)
 - [canvas-with-remix](https://github.com/yyong008/canvas-with-remix)
 - [remix-antd-extra](https://github.com/yyong008/remix-antd-extra)
+- [guess-poker](git@github.com:yyong008/guess-poker.git)
 
 ## npm packages
 
@@ -46,3 +47,8 @@
 - [iDocker](https://github.com/yyong008/iDocker)
 - [clack-chat](https://github.com/yyong008/clack-chat) About
 clack prompt with chat gpt
+- [lib-template](https://github.com/yyong008/lib-template)
+- [temporal-calendar](https://github.com/yyong008/temporal-calendar)
+- [lints-compose](https://github.com/yyong008/lints-compose)
+- [gn](https://github.com/yyong008/gn)
+- [web_api](https://github.com/yyong008/web_api)
