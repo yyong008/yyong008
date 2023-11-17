@@ -44,3 +44,5 @@
 
 - [win-netsh-desktop](https://github.com/yyong008/win-netsh-desktop)
 - [iDocker](https://github.com/yyong008/iDocker)
+- [clack-chat](https://github.com/yyong008/clack-chat) About
+clack prompt with chat gpt
