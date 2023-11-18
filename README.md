@@ -24,7 +24,7 @@
 - [create-remix-antd-pro-app](https://github.com/yyong008/create-remix-antd-pro-app)
 - [canvas-with-remix](https://github.com/yyong008/canvas-with-remix)
 - [remix-antd-extra](https://github.com/yyong008/remix-antd-extra)
-- [guess-poker](git@github.com:yyong008/guess-poker.git)
+- [guess-poker](https://github.com/yyong008/guess-poker)
 
 ## npm packages
 
@@ -52,3 +52,4 @@ clack prompt with chat gpt
 - [lints-compose](https://github.com/yyong008/lints-compose)
 - [gn](https://github.com/yyong008/gn)
 - [web_api](https://github.com/yyong008/web_api)
+- [iReduce](https://github.com/yyong008/iReduce)
