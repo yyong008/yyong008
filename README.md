@@ -53,3 +53,8 @@ clack prompt with chat gpt
 - [gn](https://github.com/yyong008/gn)
 - [web_api](https://github.com/yyong008/web_api)
 - [iReduce](https://github.com/yyong008/iReduce)
+
+## vscode
+
+- [i-colors theme](https://marketplace.visualstudio.com/items?itemName=magnesium-007.i-colors)
+
