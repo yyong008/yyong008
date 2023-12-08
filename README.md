@@ -15,10 +15,10 @@
 
 - [remix-website](https://github.com/yyong008/remix-website)
 - [remix-antd-admin](https://github.com/yyong008/remix-antd-admin)
+- [remix-mdx-blog](https://github.com/yyong008/remix-mdx-blog)
 - [remix-antd-admin-template](https://github.com/yyong008/remix-antd-admin-template)
 - [remix-antd-mobile](https://github.com/yyong008/remix-antd-mobile)
 - [remix-antd-admin-electron](https://github.com/yyong008/remix-antd-admin-electron)
-- [remix-mdx-blog](https://github.com/yyong008/remix-mdx-blog)
 - [remix-tRPC](https://github.com/yyong008/remix-trpc)
 - [remix-rxjs](https://github.com/yyong008/remix-rxjs)
 - [remix-laxjs](https://github.com/yyong008/remix-laxjs)
